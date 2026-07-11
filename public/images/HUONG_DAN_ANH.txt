@@ -1,0 +1,5 @@
+Bạn hãy tải các hình ảnh của trang web vào thư mục này nhé. Đễ dễ quản lý, bạn có thể tạo các thư mục nhỏ bên trong.
+Đối với trang chủ, phần code hiện tại đang cần 2 file ảnh:
+- /images/logo.png : Ảnh logo trường
+- /images/hero-bg.jpg : Ảnh nền lớn ở trang chủ
+Bạn hãy đổi tên ảnh của mình thành y như vậy, rồi kéo/tải vào thư mục này để website hiển thị nhé!
