@@ -14,14 +14,14 @@ interface Teacher {
 // THAY ẢNH VÀ THÔNG TIN PHẦN TRI ÂN THẦY CÔ:
 // Thuộc tính 'img' là đường dẫn ảnh. Đổi bằng ảnh cục bộ (Ví dụ: "/images/thay-hieu.jpg")
 const TEACHERS: Teacher[] = [
-  { id: 1, name: "Thầy Nguyễn Văn Hiếu", subject: "Toán Học", years: "1990 - 2020", achievements: "Nhà giáo Ưu tú, Bằng khen của Thủ tướng Chính phủ, Đào tạo nhiều học sinh giỏi quốc gia.", img: "/images/teacherstribute-1.jpg" },
-  { id: 2, name: "Cô Trần Thị Mai", subject: "Văn Học", years: "1985 - 2015", achievements: "Giáo viên dạy giỏi cấp Tỉnh nhiều năm liền, Giải thưởng Viên phấn vàng.", img: "/images/teacherstribute-2.jpg" },
-  { id: 3, name: "Thầy Lê Văn Hùng", subject: "Vật Lý", years: "1995 - Nay", achievements: "Bằng khen của Bộ GD&ĐT, Tổ trưởng chuyên môn xuất sắc.", img: "/images/teacherstribute-3.jpg" },
-  { id: 4, name: "Cô Hoàng Thu Thủy", subject: "Tiếng Anh", years: "2000 - Nay", achievements: "Chiến sĩ thi đua cấp Tỉnh, Giáo viên truyền cảm hứng.", img: "/images/teacherstribute-4.jpg" },
-  { id: 5, name: "Thầy Phạm Quang Sáng", subject: "Hóa Học", years: "1988 - 2018", achievements: "Kỷ niệm chương vì sự nghiệp giáo dục, Nhiều sáng kiến kinh nghiệm cấp Tỉnh.", img: "/images/teacherstribute-5.jpg" },
-  { id: 6, name: "Thầy Đinh Ngọc Giao", subject: "Thể Dục", years: "1994 - Nay", achievements: "Dẫn dắt các đội tuyển thể thao trường đại giải cấp quốc gia.", img: "/images/teacherstribute-6.jpg" },
-  { id: 7, name: "Cô Đặng Mỹ Lệ", subject: "Địa Lý", years: "2005 - Nay", achievements: "Đóng góp xuất sắc trong đổi mới giảng dạy, giáo viên tiêu biểu.", img: "/images/teacherstribute-7.jpg" },
-  { id: 8, name: "Thầy Đoàn Tuấn Khanh", subject: "Tin Học", years: "2010 - Nay", achievements: "Đưa học sinh tham gia phong trào tin học trẻ quốc gia.", img: "/images/teacherstribute-8.jpg" },
+  { id: 1, name: "Thầy Đặng Văn Cừ", subject: "Toán Học", years: "1966 - 1968", achievements: "Nhà giáo Ưu tú, Bằng khen của Thủ tướng Chính phủ, Đào tạo nhiều học sinh giỏi quốc gia.", img: "/images/dangvancu.png" },
+  { id: 2, name: "Thầy Lê Mạnh Đạt", subject: "Văn Học", years: "1968 - 1997", achievements: "Giáo viên dạy giỏi cấp Tỉnh nhiều năm liền, Giải thưởng Viên phấn vàng.", img: "/images/lemanhdat.png" },
+  { id: 3, name: "Thầy Phạm Văn Quyết", subject: "Vật Lý", years: "1997 - 2007", achievements: "Bằng khen của Bộ GD&ĐT, Tổ trưởng chuyên môn xuất sắc.", img: "/images/phamvanquyet.png" },
+  { id: 4, name: "Thầy Nguyễn Đức Đấu", subject: "Tiếng Anh", years: "2007 - 2015", achievements: "Chiến sĩ thi đua cấp Tỉnh, Giáo viên truyền cảm hứng.", img: "/images/nguyenducdau.png" },
+  { id: 5, name: "Thầy Trần Văn Ta", subject: "Hóa Học", years: "2016 - 2025", achievements: "Kỷ niệm chương vì sự nghiệp giáo dục, Nhiều sáng kiến kinh nghiệm cấp Tỉnh.", img: "/images/tranvanta.png" },
+  { id: 6, name: "Thầy Đinh Ngọc Giao", subject: "Thể Dục", years: "1994 - Nay", achievements: "Dẫn dắt các đội tuyển thể thao trường đại giải cấp quốc gia.", img: "/images/dinhngocgiao.png" },
+  { id: 7, name: "Cô Đặng Mỹ Lệ", subject: "Địa Lý", years: "2005 - Nay", achievements: "Đóng góp xuất sắc trong đổi mới giảng dạy, giáo viên tiêu biểu.", img: "/images/dangmyle.png" },
+  { id: 8, name: "Thầy Đoàn Tuấn Khanh", subject: "Tin Học", years: "2010 - Nay", achievements: "Đưa học sinh tham gia phong trào tin học trẻ quốc gia.", img: "/images/teacherstribute-8.png" },
 ];
 
 export function TeachersTribute() {
