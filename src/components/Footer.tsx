@@ -38,13 +38,13 @@ export function Footer() {
                     <div className="w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center group-hover:bg-amber-500 group-hover:text-slate-900 dark:text-slate-50 transition-colors">
                       <Phone size={16} />
                     </div>
-                   <span>(0220) 3xxx xxx</span>
+                   <span>0868814282</span>
                  </li>
                  <li className="flex items-center gap-4 group">
                     <div className="w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center group-hover:bg-amber-500 group-hover:text-slate-900 dark:text-slate-50 transition-colors">
                       <Mail size={16} />
                     </div>
-                   <span>alumni@camgiang.edu.vn</span>
+                   <span>duong28012009@gmail.com</span>
                  </li>
                </ul>
              </div>
