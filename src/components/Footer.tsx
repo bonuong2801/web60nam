@@ -71,7 +71,7 @@ export function Footer() {
         <div className="mt-24 pt-10 border-t border-slate-800/50 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] uppercase tracking-widest text-slate-500 font-bold">
           <p>&copy; {new Date().getFullYear()} THPT Cẩm Giàng. All Rights Reserved.</p>
           <p className="flex items-center gap-2">
-            Design with <span className="text-red-500">❤️</span> by Anniversary Media Team
+            Design with <span className="text-red-500">by</span> tunggduongg
           </p>
         </div>
       </div>
