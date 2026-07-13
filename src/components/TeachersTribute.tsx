@@ -17,7 +17,7 @@ const TEACHERS: Teacher[] = [
   { id: 1, name: "Thầy Đặng Văn Cừ", subject: "Hiệu Trưởng", years: "1966 - 1968", achievements: "Nhà giáo Ưu tú, Bằng khen của Thủ tướng Chính phủ, Đào tạo nhiều học sinh giỏi quốc gia.", img: "/images/dangvancu.png" },
   { id: 2, name: "Thầy Lê Mạnh Đạt", subject: "Hiệu Trưởng", years: "1968 - 1997", achievements: "Giáo viên dạy giỏi cấp Tỉnh nhiều năm liền, Giải thưởng Viên phấn vàng.", img: "/images/lemanhdat.png" },
   { id: 3, name: "Thầy Phạm Văn Quyết", subject: "Hiệu Trưởng", years: "1997 - 2007", achievements: "Bằng khen của Bộ GD&ĐT, Tổ trưởng chuyên môn xuất sắc.", img: "/images/phamvanquyet.png" },
-  { id: 4, name: "Thầy Nguyễn Đức Đấu", subject: "Hiệu Trưởng", years: "2007 - 2015", achievements: "Chiến sĩ thi đua cấp Tỉnh, Giáo viên truyền cảm hứng.", img: "/images/nguyenducdau.png" },
+  { id: 4, name: "Thầy Nguyễn Đức Đấu", subject: "Hiệu Trưởng", years: "2007 - 2015", achievements: "Chiến sĩ thi đua cấp Tỉnh, Giáo viên truyền cảm hứng.", img: "/images/nguyenđucau.png" },
   { id: 5, name: "Thầy Trần Văn Ta", subject: "Hiệu Trưởng", years: "2016 - 2025", achievements: "Kỷ niệm chương vì sự nghiệp giáo dục, Nhiều sáng kiến kinh nghiệm cấp Tỉnh.", img: "/images/tranvanta.png" },
   { id: 6, name: "Thầy Đinh Ngọc Giao", subject: "Thể Dục", years: "1994 - Nay", achievements: "Dẫn dắt các đội tuyển thể thao trường đại giải cấp quốc gia.", img: "/images/dinhngocgiao.png" },
   { id: 7, name: "Cô Đặng Mỹ Lệ", subject: "Địa Lý", years: "2005 - Nay", achievements: "Đóng góp xuất sắc trong đổi mới giảng dạy, giáo viên tiêu biểu.", img: "/images/dangmyle.png" },
