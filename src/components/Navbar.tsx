@@ -50,15 +50,10 @@ export function Navbar() {
   const scrollToSection = (id: string) => {
     setIsMobileMenuOpen(false);
     
-    // Use timeout to allow mobile menu to close before calculating position
     setTimeout(() => {
       const element = document.getElementById(id);
       if (element) {
-        const y = element.getBoundingClientRect().top + window.scrollY - 80;
-        window.scrollTo({
-          top: Math.max(0, y),
-          behavior: "smooth",
-        });
+        element.scrollIntoView({ behavior: "smooth", block: "start" });
       }
     }, 50);
   };
