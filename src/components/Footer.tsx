@@ -32,7 +32,7 @@ export function Footer() {
                    <div className="w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center group-hover:bg-amber-500 group-hover:text-slate-900 dark:text-slate-50 transition-colors">
                      <MapPin size={16} />
                    </div>
-                   <span className="leading-relaxed">Thị trấn Lai Cách, Huyện Cẩm Giàng, Tỉnh Hải Dương</span>
+                   <span className="leading-relaxed">Xã Mao Đièn, TP.Hải Phòng</span>
                  </li>
                  <li className="flex items-center gap-4 group">
                     <div className="w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center group-hover:bg-amber-500 group-hover:text-slate-900 dark:text-slate-50 transition-colors">
